@@ -58,3 +58,9 @@ namespace
 namespaces
 subelements
 schemas
+
+Geospatial
+http
+www
+ddialliance
+org
